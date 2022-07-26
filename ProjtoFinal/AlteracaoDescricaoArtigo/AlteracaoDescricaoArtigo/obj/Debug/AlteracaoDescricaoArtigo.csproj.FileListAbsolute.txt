@@ -1,0 +1,8 @@
+C:\Users\felyz\source\repos\AlteracaoDescricaoArtigo\AlteracaoDescricaoArtigo\bin\Debug\AlteracaoDescricaoArtigo.dll
+C:\Users\felyz\source\repos\AlteracaoDescricaoArtigo\AlteracaoDescricaoArtigo\bin\Debug\AlteracaoDescricaoArtigo.pdb
+C:\Users\felyz\source\repos\AlteracaoDescricaoArtigo\AlteracaoDescricaoArtigo\obj\Debug\AlteracaoDescricaoArtigo.AlteracaoDescricao.resources
+C:\Users\felyz\source\repos\AlteracaoDescricaoArtigo\AlteracaoDescricaoArtigo\obj\Debug\AlteracaoDescricaoArtigo.csproj.GenerateResource.cache
+C:\Users\felyz\source\repos\AlteracaoDescricaoArtigo\AlteracaoDescricaoArtigo\obj\Debug\AlteracaoDescricaoArtigo.csproj.CoreCompileInputs.cache
+C:\Users\felyz\source\repos\AlteracaoDescricaoArtigo\AlteracaoDescricaoArtigo\obj\Debug\AlteracaoDescricaoArtigo.dll
+C:\Users\felyz\source\repos\AlteracaoDescricaoArtigo\AlteracaoDescricaoArtigo\obj\Debug\AlteracaoDescricaoArtigo.pdb
+C:\Users\felyz\source\repos\AlteracaoDescricaoArtigo\AlteracaoDescricaoArtigo\obj\Debug\AlteracaoDescricaoArtigo.csproj.AssemblyReference.cache

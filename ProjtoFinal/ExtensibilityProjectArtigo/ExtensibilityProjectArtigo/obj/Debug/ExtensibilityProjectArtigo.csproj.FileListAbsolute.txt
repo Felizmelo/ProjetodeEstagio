@@ -1,0 +1,9 @@
+C:\Users\felyz\source\repos\ExtensibilityProjectArtigo\ExtensibilityProjectArtigo\bin\Debug\ExtensibilityProjectArtigo.dll
+C:\Users\felyz\source\repos\ExtensibilityProjectArtigo\ExtensibilityProjectArtigo\bin\Debug\ExtensibilityProjectArtigo.pdb
+C:\Users\felyz\source\repos\ExtensibilityProjectArtigo\ExtensibilityProjectArtigo\obj\Debug\ExtensibilityProjectArtigo.csproj.AssemblyReference.cache
+C:\Users\felyz\source\repos\ExtensibilityProjectArtigo\ExtensibilityProjectArtigo\obj\Debug\ExtensibilityProjectArtigo.pesquisarArtigo.resources
+C:\Users\felyz\source\repos\ExtensibilityProjectArtigo\ExtensibilityProjectArtigo\obj\Debug\ExtensibilityProjectArtigo.Properties.Resources.resources
+C:\Users\felyz\source\repos\ExtensibilityProjectArtigo\ExtensibilityProjectArtigo\obj\Debug\ExtensibilityProjectArtigo.csproj.GenerateResource.cache
+C:\Users\felyz\source\repos\ExtensibilityProjectArtigo\ExtensibilityProjectArtigo\obj\Debug\ExtensibilityProjectArtigo.csproj.CoreCompileInputs.cache
+C:\Users\felyz\source\repos\ExtensibilityProjectArtigo\ExtensibilityProjectArtigo\obj\Debug\ExtensibilityProjectArtigo.dll
+C:\Users\felyz\source\repos\ExtensibilityProjectArtigo\ExtensibilityProjectArtigo\obj\Debug\ExtensibilityProjectArtigo.pdb

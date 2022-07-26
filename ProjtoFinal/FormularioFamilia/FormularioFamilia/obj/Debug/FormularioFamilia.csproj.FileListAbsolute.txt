@@ -1,0 +1,15 @@
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\bin\Debug\FormularioFamilia.dll
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\bin\Debug\FormularioFamilia.pdb
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\bin\Debug\IBasBS100.dll
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\obj\Debug\FormularioFamilia.csproj.AssemblyReference.cache
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\obj\Debug\FormularioFamilia.ArtigosFamilias.resources
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\obj\Debug\FormularioFamilia.familiaDocumento.resources
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\obj\Debug\FormularioFamilia.csproj.GenerateResource.cache
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\obj\Debug\FormularioFamilia.csproj.CoreCompileInputs.cache
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\obj\Debug\FormularioFamilia.csproj.CopyComplete
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\obj\Debug\FormularioFamilia.dll
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\obj\Debug\FormularioFamilia.pdb
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\bin\Debug\Habanero.Base.dll
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\bin\Debug\Habanero.BO.dll
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\bin\Debug\Habanero.Console.dll
+C:\Users\felyz\source\repos\FormularioFamilia\FormularioFamilia\bin\Debug\Habanero.DB.dll

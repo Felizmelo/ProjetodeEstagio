@@ -1,0 +1,6 @@
+C:\Users\felyz\source\repos\ExtensibilityProject1\ExtensibilityProject1\bin\Debug\ExtensibilityProject1.dll
+C:\Users\felyz\source\repos\ExtensibilityProject1\ExtensibilityProject1\bin\Debug\ExtensibilityProject1.pdb
+C:\Users\felyz\source\repos\ExtensibilityProject1\ExtensibilityProject1\obj\Debug\ExtensibilityProject1.csproj.AssemblyReference.cache
+C:\Users\felyz\source\repos\ExtensibilityProject1\ExtensibilityProject1\obj\Debug\ExtensibilityProject1.csproj.CoreCompileInputs.cache
+C:\Users\felyz\source\repos\ExtensibilityProject1\ExtensibilityProject1\obj\Debug\ExtensibilityProject1.dll
+C:\Users\felyz\source\repos\ExtensibilityProject1\ExtensibilityProject1\obj\Debug\ExtensibilityProject1.pdb

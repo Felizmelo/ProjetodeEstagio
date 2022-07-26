@@ -1,0 +1,4 @@
+C:\Users\felyz\source\repos\ExtensibilityEmpresa\ExtensibilityEmpresa\obj\Debug\ExtensibilityEmpresa.csproj.AssemblyReference.cache
+C:\Users\felyz\source\repos\ExtensibilityEmpresa\ExtensibilityEmpresa\obj\Debug\ExtensibilityEmpresa.ExtensibilityEmpresa.resources
+C:\Users\felyz\source\repos\ExtensibilityEmpresa\ExtensibilityEmpresa\obj\Debug\ExtensibilityEmpresa.csproj.GenerateResource.cache
+C:\Users\felyz\source\repos\ExtensibilityEmpresa\ExtensibilityEmpresa\obj\Debug\ExtensibilityEmpresa.csproj.CoreCompileInputs.cache
